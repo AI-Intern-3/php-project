@@ -1,7 +1,7 @@
 # php-project
 Here's the `README.md` file based on your CI/CD pipeline setup:
 
-```markdown
+
 # CI/CD Pipeline for PHP Project
 
 ## Overview
